@@ -1,18 +1,22 @@
-## Getting Started
+# 🚀 DoList - Modern Task Manager
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A professional Java Swing application for managing tasks with a sleek dark theme and modern UI components.
 
-## Folder Structure
+## 🌟 Key Features
+* **Full Task Control:** Add, edit, delete, and mark tasks as complete.
+* **Modern UI:** Custom-painted checkboxes, buttons, and scrollbars.
+* **Smart Search:** Instant task filtering with real-time search.
+* **Fast Navigation:** Keyboard shortcuts (Enter to Save, Esc to Cancel).
+* **Auto-Save:** Tasks are automatically saved to `tasks.dat`.
 
-The workspace contains two folders by default, where:
+## 🛠️ Built With
+* **Java SDK** - Core logic.
+* **Java Swing** - Custom graphical interface.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🚀 How to Run
+1. Open the project in **VS Code**.
+2. Ensure you have the **Java Extension Pack** installed.
+3. Open `src/App.java` and click **Run**.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+*Created with love by [AliHussienDev]*
