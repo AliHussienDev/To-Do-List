@@ -6,7 +6,6 @@ A professional Java Swing application for managing tasks with a sleek dark theme
 * **Full Task Control:** Add, edit, delete, and mark tasks as complete.
 * **Modern UI:** Custom-painted checkboxes, buttons, and scrollbars.
 * **Smart Search:** Instant task filtering with real-time search.
-* **Fast Navigation:** Keyboard shortcuts (Enter to Save, Esc to Cancel).
 * **Auto-Save:** Tasks are automatically saved to `tasks.dat`.
 
 ## 🛠️ Built With
